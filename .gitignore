@@ -1,0 +1,9 @@
+/JonahBelback/face detection.v1i.yolov8
+/JonahBelback/dataset
+/runs
+.venv
+__pycache__
+captured_photo.jpg
+Frontend/TEST_dragSquare.py
+boxed_photo.jpg
+captured_photo.jpg
