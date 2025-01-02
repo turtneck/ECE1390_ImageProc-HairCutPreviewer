@@ -1,5 +1,7 @@
 # ECE1390
 
+### [Google Presentation](https://docs.google.com/presentation/d/1u86NbGBUJEDUaCnIOji0ottfgTjhTsgwbLp0E_kswUI/edit?usp=sharing)
+
 [ECE 1390](https://catalog.upp.pitt.edu/search_advanced.php?cur_cat_oid=225&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=3&filter%5Bkeyword%5D=ece+1390&filter%5Bexact_match%5D=1) is a class in the University of Pittsburgh's Electrical and Computer Engineering Department that focus' on image processing. For this course's project, we were tasked with creating an application to utilize image processing techniques from class to create a product. 
 
 1. [Description](#description)
